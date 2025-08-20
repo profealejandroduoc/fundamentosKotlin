@@ -5,7 +5,7 @@ fun main(){
     setAnimales.add("Ñu")
     setAnimales.add("Jirafa")
     setAnimales.add("Perro")
-    setAnimales.
+
 
     println(setAnimales)
 }
